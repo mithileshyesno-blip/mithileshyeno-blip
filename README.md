@@ -68,7 +68,7 @@ I am a passionate tech enthusiast and aspiring Data Scientist who loves working 
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/
+- GitHub: [https://github.com/](https://github.com/mithileshyesno-blip)
 - LinkedIn: www.linkedin.com/in/mithilesh-kumar-609a8b308
 - Email: Mithileshyesno@gmail.com
 
